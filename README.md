@@ -1,1 +1,0 @@
-# IDAI105-1000428-Mann-Paresh-Patel-Data-Mining-FA-2
