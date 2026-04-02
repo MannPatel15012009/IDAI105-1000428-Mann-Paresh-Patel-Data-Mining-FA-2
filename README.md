@@ -11,7 +11,7 @@
 
 > **An end-to-end interactive data mining dashboard for FinTrust Bank Ltd. — transforming raw ATM transaction records into cash management intelligence through EDA, K-Means clustering, anomaly detection, and a real-time interactive planner.**
 
-🌐 **Live App:** [Launch on Streamlit Cloud](https://idai105-1000414-aditya-jitendra-kumar-sahani.streamlit.app/)
+🌐 **Live App:** [Launch on Streamlit Cloud](https://idai105-1000428-mann-paresh-patel-data-mining-fa-2.streamlit.app/)
 
 ---
 
@@ -504,7 +504,7 @@ statsmodels>=0.14.0
 
 The app is hosted on **Streamlit Community Cloud** with zero-configuration deployment from this GitHub repository.
 
-🔗 **Live URL:** [https://idai105-1000414-aditya-jitendra-kumar-sahani.streamlit.app/](https://idai105-1000414-aditya-jitendra-kumar-sahani.streamlit.app/)
+🔗 **Live URL:** [https://idai105-1000428-mann-paresh-patel-data-mining-fa-2.streamlit.app/](https://idai105-1000428-mann-paresh-patel-data-mining-fa-2.streamlit.app/)
 
 **To deploy your own fork:**
 1. Push this repository to your GitHub account
@@ -559,14 +559,14 @@ The app is hosted on **Streamlit Community Cloud** with zero-configuration deplo
 
 | Field | Value |
 |-------|-------|
-| **Student Name** | Aditya Jitendra Kumar Sahani|
-| **Candidate Number** | 1000414 |
+| **Student Name** |Mann Paresh Patel|
+| **Candidate Number** | 1000428 |
 | **CRS Name** | Artificial Intelligence |
 | **Course Name** | Data Mining |
 | **Assessment** | Formative Assessment 2 (FA-2) |
 | **Submission Date** | March 2026 |
-| **GitHub Repository** | https://github.com/adityasahani392217/IDAI105-1000414-ADITYA-JITENDRA-KUMAR-SAHANI |
-| **Live Application** | https://idai105-1000414-aditya-jitendra-kumar-sahani.streamlit.app/ |
+| **GitHub Repository** | https://github.com/MannPatel15012009/IDAI105-1000428-Mann-Paresh-Patel-Data-Mining-FA-2 |
+| **Live Application** |https://idai105-1000428-mann-paresh-patel-data-mining-fa-2.streamlit.app/ |
 
 ---
 
